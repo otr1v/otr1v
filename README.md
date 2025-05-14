@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ivan Novokhatskii </h1>
-<img src="dog.jpg" alt="" width="800"/>
+<p align="center" >
+<img src="dog.jpg" alt="" width="400"/>
+</p>
 
 
 ---
