@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ivan Novokhatskii </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="otr1v" /> </p>
 
 - 🔭 I’m currently studying in **MIPT**
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### 📈 My state
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otr1v&theme=radical" alt="streak"/>
 </p>
 
 ---
